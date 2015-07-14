@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<Configuration>
+	<WebApplication url="Your Webapplication" >
+	</WebApplication> 
+   	<CTHub url="Your CT Hub URL">
+	</CTHub> 
+</Configuration>
+
